@@ -1,5 +1,11 @@
 # 🎂 36 Orbits Around the Sun – My Dev Story So Far
 
+
+<p align="center">
+  <img src="assets/saturn-farzan-banner.png" alt="Farzan in Orbit" width="600"/>
+</p>
+
+
 Today marks my 36th orbit around the sun.  
 Unlike most birthdays, this one feels like a checkpoint — not for age, but for trajectory.  
 After years of building, breaking, and evolving, I felt it was time to pause and document the orbit I’ve carved through the tech universe.
