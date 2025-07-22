@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/saturn-farzan-banner.png" alt="Farzan in Orbit" width="600"/>
+  <img src="assets/me.png" alt="Farzan in Orbit" width="600"/>
 </p>
 
 
